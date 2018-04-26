@@ -4,12 +4,13 @@ This repo contains all the files, settings and configurations I use for my Devel
 
 # Xcode
 
+## Focus Theme
+
 I get asked a lot about my Xcode theme which I made myself. I designed it to help you focus on the important parts of your code, such as types and functions. Keywords, comments, etc use low-key colors to remove distraction.
 
-**Focus**
-[![Focus][focus-preview]][focus]
+[![Focus – Xcode Theme][focus-image]][focus-link]
 
 
 
-[focus-preview]:      https://raw.githubusercontent.com/shaps80/Development-Environment/master/Xcode/Focus.png
-[focus]:              https://raw.githubusercontent.com/shaps80/Development-Environment/master/Xcode/Focus.xccolortheme
+[focus-image]:      https://github.com/shaps80/Development-Environment/raw/master/Xcode/Focus.png
+[focus-link]:       https://github.com/shaps80/Development-Environment/raw/master/Xcode/Focus.xccolortheme

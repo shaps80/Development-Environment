@@ -8,6 +8,8 @@ This repo contains all the files, settings and configurations I use for my Devel
 
 I get asked a lot about my Xcode theme which I made myself. I designed it to help you focus on the important parts of your code, such as types and functions. Keywords, comments, etc use low-key colors to remove distraction.
 
+[Download][focus-link]
+
 [![Focus – Xcode Theme][focus-image]][focus-link]
 
 
